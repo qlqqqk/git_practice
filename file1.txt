@@ -2,4 +2,3 @@ hello git
 second
 third - my branch
 fourth
-some hot fix
